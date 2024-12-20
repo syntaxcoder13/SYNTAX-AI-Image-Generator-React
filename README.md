@@ -1,7 +1,3 @@
-## **Click on below image to watch tutorial** 👇
-
-
-[![youtube](https://img.youtube.com/vi/XAkpY8d1imQ/0.jpg)](https://www.youtube.com/watch?v=XAkpY8d1imQ)
 
 ## To Start the project
 ### clone the repo
